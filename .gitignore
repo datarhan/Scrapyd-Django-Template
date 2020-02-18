@@ -2,3 +2,4 @@ db.*
 dbs/
 logs/
 *.pyc
+scrapy_app/twistd.pid
